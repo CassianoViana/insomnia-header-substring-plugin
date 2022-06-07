@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-header-substring-plugin",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "insomnia-header-substring-plugin",
+    "description": ""
+  },
+  "main": "main.js"
+}
